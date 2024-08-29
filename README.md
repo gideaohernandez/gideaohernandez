@@ -6,7 +6,7 @@ My name is Nongo António 😎, IT student and developer passionate about creati
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gideaohernandez.gh)
 
 ![gideaohernandez GitHub stats](https://github-readme-stats.vercel.app/api?username=gideaohernandez&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideaohernandez&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideaohernandez&layout=radical)
 
 ## My Skills
 
