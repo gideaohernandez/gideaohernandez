@@ -7,6 +7,7 @@ My name is Nongo António 😎, IT student and developer passionate about creati
 
 ![gideaohernandez GitHub stats](https://github-readme-stats.vercel.app/api?username=gideaohernandez&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideaohernandez&exclude_repo=github-readme-stats,gideaohernandez_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gideaohernandez&layout=pie)](https://github.com/gideaohernandez/github-readme-stats_icons=true&theme=tokyonight)
 
 
 ## My Skills
