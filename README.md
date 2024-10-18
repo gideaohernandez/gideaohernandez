@@ -1,5 +1,5 @@
-### Hi, Gideão Hernández is my stage name 🖖. 
-My name is Nongo António 😎, IT student and developer passionate about creating solutions that make a difference. Always seeking new challenges and continuous learning.
+### Hi, Gideão Hernández is my name 🖖. 
+IT student and developer passionate about creating solutions that make a difference. Always seeking new challenges and continuous learning.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gideaohernandez_/)
